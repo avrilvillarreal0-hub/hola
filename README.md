@@ -1,4 +1,3 @@
-# hola
 <!DOCTYPE html>
 <html lang="es" class="h-full bg-slate-100">
 <head>
